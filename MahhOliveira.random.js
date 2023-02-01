@@ -29,6 +29,6 @@
 
         /* #include <utilities/Utilities.js> */
 
-        global.Lowlight.Random = {Distribution, Utilities}
+        global.MahhOliveira.Random = {Distribution, Utilities}
 
 })(typeof window !== "undefined" ? window : this)
